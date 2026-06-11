@@ -39,10 +39,15 @@ Extract both 7z files before running the notebook.
 
 ## Requirements
 numpy
+
 pandas
+
 neurokit2
+
 scikit-learn
+
 matplotlib
+
 seaborn
 
 ## Usage
